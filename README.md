@@ -5,8 +5,9 @@ All images were taken from Unsplash
 
 
 hero image -- lycs architecture
-
-random information images
+ 
+ 
+ information images in correct order
 i   Windows
 ii  Windows
 iii Microsoft 365

@@ -29,7 +29,7 @@ nav, header, section {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 0;
+    padding: 35px 0;
 }
 
  ul {
@@ -66,7 +66,8 @@ a, .nav {
     }
 
     .gallery .mediaitem {
-        width: 60%;
+        width: 76%;
+        height: 350px;
     }
 
 }
@@ -75,7 +76,7 @@ a, .nav {
     flex: auto;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 1100px) {
     .quote {
         font-size: 26px;
     }
@@ -202,7 +203,7 @@ footer {
 }
 
 footer div {
-    padding: 15px 0;
+    padding: 35px 0;
 }
 /* debugging*/
 

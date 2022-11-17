@@ -29,7 +29,7 @@ nav, header, section {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 0;
+    padding: 35px 0;
 }
 
  ul {
@@ -57,13 +57,9 @@ a, .nav {
 
     .header {
     flex-direction: column;
-    padding: 120px 0;
     
     }
 
-    .nav, footer div {
-        padding: 36px 0;
-    } 
 
     .gallery {
         flex-direction: column;
@@ -72,7 +68,6 @@ a, .nav {
 
     .gallery .mediaitem {
         width: 76%;
-        height: 350px;
     }
 
     .mediaitem img {
@@ -212,7 +207,7 @@ footer {
 }
 
 footer div {
-    padding: 16px 0;
+    padding: 36px 0;
 }
 /* debugging*/
 
